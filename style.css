@@ -6,12 +6,11 @@
 
 body{
     font-family: "Helvetica", Arial, Helvetica, sans-serif;
-    border-color: #000;
 }
     
 header{
-    background-color: #000
-    color: black;
+    background-color: #000;
+    color: #000;
     width: 100%;
     padding: 20px;
 }
