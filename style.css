@@ -24,7 +24,6 @@ header{
 }
 
 .LogoPag{
-    height: 2;
     width: 25%;
     display: flex;
     justify-content: flex-start;
