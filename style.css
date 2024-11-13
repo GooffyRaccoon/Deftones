@@ -24,7 +24,7 @@ header{
 }
 
 .LogoPag{
-    width: 90%;
+    width: 25%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -38,9 +38,9 @@ header{
 }
 
 .Redes{
+    width: 25%;
     display: flex;
     justify-content: flex-end;
-    width: 25%;
     padding-right: 30px;
 }
 
