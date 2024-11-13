@@ -63,7 +63,7 @@ header{
 }
 
 .Albuns{
-    background-image: background-color(#faae43);
+    background-image: background-color(#000);
     padding: 24px 0;
 }
 
@@ -113,7 +113,7 @@ header{
 }
 
 .Rodape{
-    background-image: linear-gradient(#40A2E3,#7FC2EF);
+    background-image: #000;
     color: white;
     display: flex;
     justify-content:center;
