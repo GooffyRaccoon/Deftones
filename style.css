@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: #000;
  }
 
 body{
     font-family: "Helvetica", Arial, Helvetica, sans-serif;
+    color: #000;
 }
     
 header{
