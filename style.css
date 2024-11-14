@@ -53,7 +53,7 @@ header{
     display: flex;
     width: 54px;
     height: 54px;
-    padding-right: 40px;
+    padding: 40px;
     justify-content: flex-end;
 }
 
