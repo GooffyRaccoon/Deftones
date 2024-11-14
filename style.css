@@ -29,11 +29,12 @@ header{
     height: 100px;
     display: flex;
     margin: 0 auto;
+    justify-content: space-around;
     align-items: center;
-    justify-content: center;
+    
 }
 
-.headerimg{
+.logoimg{
     width: 78px;
     height: 78px;
     display: flex;
@@ -52,10 +53,10 @@ header{
 
 .mediasimg{
     display: flex;
-    justify-content: flex-end;
     width: 78px;
     height: 78px;
     padding-right: 30px;
+    justify-content: flex-end;
 }
 
 .page1{
