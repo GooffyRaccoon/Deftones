@@ -2,9 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    }
+}
+
+:root{
+    --letras:#ffffff;
+    --fundo: #000000;
+    --retangulo: #C64A4A;
+}
 
 body{
+    background-color: var(--fundo);
     font-family: "Helvetica", Arial, Helvetica, sans-serif;
 }
 
