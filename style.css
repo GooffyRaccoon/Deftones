@@ -34,8 +34,8 @@ header{
 }
 
 .headerimg{
-    width: 54px;
-    height:54px;
+    width: 78px;
+    height: 78px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
