@@ -48,7 +48,7 @@ header{
     font: 48px;
 }
 
-.mediasimg{
+.medias{
     width: 54px;
     height: 54px;
     display: flex;
@@ -122,12 +122,13 @@ header{
     text-align: center;
 }
 
-.logo_rodape{
+.footerlogo{
     height: 80px;
     padding: 12px 0;
+    align-items: center;
 }
     
 .link{
-    color: #ffffff;
+    color: var(--letras);
     text-decoration: none;
 }
