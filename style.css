@@ -59,7 +59,7 @@ header{
 }
 
 .ImagemAlbuns{
-    width: 120px;
+    width: 200px;
 }
 
 .Albuns{
@@ -69,7 +69,7 @@ header{
 
 .Album{
     text-align: center;
-    padding: 50px 0;
+    padding: 24px 0;
 }
 
 .Album2{
