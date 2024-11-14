@@ -8,12 +8,11 @@
     --letras:#ffffff;
     --fundo: #000000;
     --retangulo: #C64A4A;
-    --fonte: "Inter";
 }
 
 body{
     background-color: var(--fundo);
-    font-family: var(--fonte);
+    font-family: "Inter" sans-serif;
     color: var(--letras);
 }
 
@@ -22,5 +21,4 @@ header{
     color: var(--letras);
     width: 1440px;
     height: 100px;
-    padding: 24px;
 }
