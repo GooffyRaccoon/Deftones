@@ -21,25 +21,26 @@ header{
     background-color: var(--fundo);
     color: var(--letras);
     width: 100%;
-    padding: 0px;
+    padding: 20px;
 }
 
-.cabecalho-itens{
-    max-width: 1980px;
+.header{
+    max-width: 1440px;
+    max-height: 100px;
     margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.cabecalho-imagem{
+.headerimg{
     width: 10%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
 }
 
-.titulo_site{
+.tittle{
     padding: 50px;
     text-align: center;
     width: 50%;
