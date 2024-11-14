@@ -49,10 +49,11 @@ header{
     font: 30px;
 }
 
-.sociais{
+.mediasimg{
     display: flex;
     justify-content: flex-end;
-    width: 25%;
+    width: 78px;
+    height: 78px;
     padding-right: 30px;
 }
 
