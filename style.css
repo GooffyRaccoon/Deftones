@@ -12,7 +12,7 @@
 
 body{
     background-color: var(--fundo);
-    font-family: "Helvetica", Arial, Helvetica, sans-serif;
+    font-family: "Inter";
     color: var(--letras);
 }
 
@@ -47,7 +47,7 @@ header{
     text-align: center;
     width: 219px;
     height: 84px;
-    font: 30px;
+    font: 48px;
 }
 
 .mediasimg{
