@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -14,14 +14,14 @@ body{
     background-color: var(--fundo);
     font-family: "Helvetica", Arial, Helvetica, sans-serif;
     color: var(--letras);
-    
 }
 
+
 header{
-    background-color: #000000;
-    color: #000000;
+    background-color: var(--fundo);
+    color: var(--letras);
     width: 100%;
-    padding: 20px;
+    padding: 800px;
 }
 
 .cabecalho-itens{
