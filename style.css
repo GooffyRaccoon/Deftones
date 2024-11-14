@@ -58,8 +58,11 @@ header{
     padding-right: 30px;
 }
 
-.pagina1{
+.page1{
     background-image: url(img/background01.jpg);
+}
+
+.text{
     display: flex;
     justify-content: center;
 }
