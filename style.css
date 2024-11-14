@@ -5,7 +5,7 @@
 }
 
 :root{
-    --letras:#ffffff;
+    --corletras:#ffffff;
     --fundo: #000000;
     --retangulo: #C64A4A;
 }
@@ -13,12 +13,12 @@
 body{
     background-color: var(--fundo);
     font-family: "Inter" sans-serif;
-    color: var(--letras);
+    color: var(--corletras);
 }
 
 header{
-    background-color: var(--fundo);
-    color: var(--letras);
+    background-color: #777);
+    color: var(--corletras);
     width: 1440px;
     height: 100px;
 }
