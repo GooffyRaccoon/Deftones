@@ -58,10 +58,16 @@ header{
     padding-right: 30px;
 }
 
-.banner1{
+.principal{
+    background-image: url(img/background01.jpg);
     display: flex;
     justify-content: center;
 }
+
+
+
+
+
 
 .estudante_titulo{
     padding: 50px;
