@@ -55,6 +55,7 @@ header{
     height: 54px;
     padding: 24px;
     justify-content: flex-end;
+    align-items: center;
 }
 
 .page1{
