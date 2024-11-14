@@ -30,7 +30,7 @@ footer{
     color: var(--letras);
     width: 1440px;
     height: 250px;
-    
+
 }
 
 .header{
@@ -64,7 +64,7 @@ footer{
 }
 
 .page1{
-    background-image: url(img/background01.jpg);
+    background-image: url(background01.jpg);
 }
 
 .container {
