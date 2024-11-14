@@ -55,4 +55,12 @@ header{
 .page1{
     width: 1440px;
     height: 808px;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: center;
+}
+
+.background1{
+    width: 1440px;
+    height: 808px;
 }
