@@ -16,11 +16,11 @@ body{
     color: var(--corletras);
 }
 
-.header{
+header{
     background-color: var(--fundo);
     width: 1440px;
     height: 100px;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
