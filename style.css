@@ -60,7 +60,8 @@ footer{
     width: 54px;
     height: 54px;
     display: flex;
-    align-items: flex-end;
+    justify-content: flex-end;
+    align-items: center;
 }
 
 .page1{
