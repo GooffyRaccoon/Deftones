@@ -25,6 +25,14 @@ header{
     padding: 24px;
 }
 
+footer{
+    background-color: var(--fundo);
+    color: var(--letras);
+    width: 1440px;
+    height: 250px;
+    
+}
+
 .header{
     width: 1440px;
     height: 100px;
