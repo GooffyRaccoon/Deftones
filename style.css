@@ -16,7 +16,7 @@ body{
     color: var(--letras);
 }
 
-header{
+.header{
     background-color: var(--fundo);
     color: var(--letras);
     width: 1440px;
