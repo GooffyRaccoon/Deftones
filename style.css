@@ -13,6 +13,8 @@
 body{
     background-color: var(--fundo);
     font-family: "Helvetica", Arial, Helvetica, sans-serif;
+    color: var(--letras);
+    
 }
 
 header{
