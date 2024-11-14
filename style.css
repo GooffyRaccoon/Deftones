@@ -16,7 +16,7 @@ body{
     color: var(--corletras);
 }
 
-header{
+.header{
     background-color: #777);
     color: var(--corletras);
     width: 1440px;
