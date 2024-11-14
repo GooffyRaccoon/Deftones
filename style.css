@@ -43,7 +43,7 @@ header{
 
 .divmedias{
     justify-content: flex-end;
-    align-items: center;
+    align-items: baseline;
     padding-right: 12px;
     display: flex;
     width: 54px;
