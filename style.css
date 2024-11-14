@@ -52,6 +52,7 @@ header{
     width: 54px;
     height: 54px;
     display: flex;
+    align-items: flex-end;
 }
 
 .page1{
@@ -74,9 +75,10 @@ header{
 
 
 
-.estudante_titulo{
+.page2tittle{
     padding: 50px;
     text-align: center;
+    justify-content: center;
 }
 
 .estudante-nome{
