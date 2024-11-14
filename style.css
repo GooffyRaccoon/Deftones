@@ -17,8 +17,7 @@ body{
 }
 
 .header{
-    background-color: #777);
-    color: var(--corletras);
+    background-color: #ffffff;
     width: 1440px;
     height: 100px;
 }
