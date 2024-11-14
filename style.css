@@ -65,3 +65,19 @@ header{
     width: 1440px;
     height: 808px;
 }
+
+
+
+
+
+
+
+
+.footer{
+    background-color: var(--fundo);
+    color: var(--corletras);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
