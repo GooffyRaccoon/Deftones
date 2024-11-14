@@ -21,7 +21,6 @@ header{
     width: 1440px;
     height: 100px;
     justify-content: space-between;
-    align-items: center;
 }
 
 .logoimg{
@@ -56,5 +55,4 @@ header{
 .page1{
     width: 1440px;
     height: 808px;
-    src: url(background01.jpg);
 }
