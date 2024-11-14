@@ -16,29 +16,30 @@ body{
     color: var(--letras);
 }
 
-
 header{
     background-color: var(--fundo);
     color: var(--letras);
     width: 1440px;
     height: 100px;
-    padding: 20px;
+    padding: 100px;
 }
 
 .header{
     width: 1440px;
     height: 100px;
+    display: flex;
     margin: 0 auto;
-    justify-content: space-between;
     align-items: center;
+    justify-content: center;
 }
 
 .headerimg{
     width: 78px;
     height: 78px;
-    margin-left: 100px;
-    align-items: center;
+    display: flex;
+    position: -2293, -419;
     justify-content: flex-start;
+    align-items: center;
 }
 
 .tittle{
