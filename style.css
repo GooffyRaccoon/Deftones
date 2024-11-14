@@ -21,25 +21,36 @@ header{
     width: 1440px;
     height: 100px;
     justify-content: space-between;
-    align-items: stretch;
+    align-items: center;
 }
 
 .logoimg{
     width: 78px;
     height: 78px;
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    margin-left: 24px;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 .pagetittle{
     width: 207px;
     height: 84px;
     text-size-adjust: 48px;
+    justify-content: center;
+    align-items: center;
 }
 
 .medias{
     width: 54px;
     height: 54px;
+    margin-right: 24px;
+    margin-top: 23px;
+    margin-bottom: 23px;
+    padding-right: 22px;
+    justify-content: flex-end;
+    align-items: center;
 }
 
 .page1{
