@@ -9,14 +9,14 @@ body{
     }
 
 header{
-    background-color: #000;
+    background-color: #ffffff;
     color: #000;
     width: 100%;
     padding: 20px;
 }
 
 .Cabecalho{
-    max-width: 15px;
+    max-width: 20px;
     margin: 0 auto;
     display: flex;
     align-items: center;
