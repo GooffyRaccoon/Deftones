@@ -22,7 +22,7 @@ header{
     color: var(--letras);
     width: 1440px;
     height: 100px;
-    padding: 40px;
+    padding: 24px;
 }
 
 .header{
@@ -50,10 +50,10 @@ header{
 }
 
 .mediasimg{
-    display: flex;
     width: 54px;
     height: 54px;
     padding: 24px;
+    display: flex;
     justify-content: flex-end;
     align-items: center;
 }
