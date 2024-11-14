@@ -8,11 +8,12 @@
     --letras:#ffffff;
     --fundo: #000000;
     --retangulo: #C64A4A;
+    --fonte: "Inter";
 }
 
 body{
     background-color: var(--fundo);
-    font-family: "Inter";
+    font-family: var(--fonte);
     color: var(--letras);
 }
 
