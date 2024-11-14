@@ -33,7 +33,7 @@ header{
     align-items: center;
 }
 
-.pagetittle{
+.headertittle{
     width: 207px;
     height: 84px;
     text-size-adjust: 48px;
@@ -45,11 +45,11 @@ header{
     justify-content: flex-end;
     align-items: center;
     padding-right: 12px;
+    width: 54px;
+    height: 54px;
 }
 
 .medias{
-    width: 54px;
-    height: 54px;
     margin-right: 12px;
     margin-left: 12px;
     margin-top: 23px;
