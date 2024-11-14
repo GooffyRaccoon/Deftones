@@ -16,7 +16,7 @@ header{
 }
 
 .Cabecalho{
-    max-width: 20px;
+    max-width: 15px;
     margin: 0 auto;
     display: flex;
     align-items: center;
