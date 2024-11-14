@@ -45,11 +45,9 @@ header{
     justify-content: flex-end;
     align-items: center;
     padding-right: 12px;
+    display: flex;
     width: 54px;
     height: 54px;
-}
-
-.medias{
     margin-right: 12px;
     margin-left: 12px;
     margin-top: 23px;
