@@ -21,7 +21,7 @@ header{
     background-color: var(--fundo);
     color: var(--letras);
     width: 100%;
-    padding: 800px;
+    padding: 0px;
 }
 
 .cabecalho-itens{
