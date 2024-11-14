@@ -2,7 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #000;
     }
+
+h1 {
+    color: #ffffff;
+}
+
+p {
+    color: #ffffff:
+}
 
 body{
     font-family: "Helvetica", Arial, Helvetica, sans-serif;
