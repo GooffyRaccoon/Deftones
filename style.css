@@ -20,7 +20,8 @@ body{
 header{
     background-color: var(--fundo);
     color: var(--letras);
-    width: 100%;
+    width: 1440px;
+    height: 100px;
     padding: 20px;
 }
 
