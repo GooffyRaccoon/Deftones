@@ -41,15 +41,19 @@ header{
     align-items: center;
 }
 
+.divmedias{
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 12px;
+}
+
 .medias{
     width: 54px;
     height: 54px;
-    margin-right: 24px;
+    margin-right: 12px;
+    margin-left: 12px;
     margin-top: 23px;
     margin-bottom: 23px;
-    padding-right: 22px;
-    justify-content: flex-end;
-    align-items: center;
 }
 
 .page1{
@@ -58,4 +62,9 @@ header{
     justify-content: flex-end;
     align-items: center;
     text-align: center;
+}
+
+.background01{
+    width: 1440px;
+    height: 808px;
 }
