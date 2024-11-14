@@ -12,7 +12,7 @@ header{
     background-color: #ffffff;
     color: #000);
     width: 100%;
-    padding: 40px;
+    padding: 20px;
 }
 
 .Cabecalho{
@@ -34,7 +34,7 @@ header{
     padding: 50px;
     text-align: center;
     width: 50%;
-    font: 70px;
+    font: 30px;
 }
 
 .Redes{
