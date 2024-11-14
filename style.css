@@ -60,6 +60,12 @@ header{
     background-image: url(img/background01.jpg);
 }
 
+.container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 66% 33%;
+}
+
 .text{
     display: flex;
     justify-content: center;
