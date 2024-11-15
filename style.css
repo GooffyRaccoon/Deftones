@@ -131,6 +131,7 @@ header{
 .albumscaption{
     color: var(--letters);
     background-color: var(--lettersfill);
+    height: 90px;
     text-align: center;
     justify-content: center;
     align-content: center;
