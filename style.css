@@ -62,19 +62,18 @@ header{
     padding-right: 20px;
 }
 
-.page1{
+.page01{
     height: 808px;
     justify-content: center;
     align-items: center;
     text-align: center;
 }
 
-.background01{
-    width: 1440px;
-    height: 808px;
+.selector{
+    content: url(background01.png);
 }
 
-.page2{
+.page02{
     
 }
 
