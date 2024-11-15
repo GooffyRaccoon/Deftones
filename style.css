@@ -147,6 +147,7 @@ header{
 
 .footer{
     background-color: var(--background);
+
     height: 248px;
     justify-content: center;
     align-items: center;
@@ -164,4 +165,9 @@ header{
 
 .privacity{
     padding-top: 1px;
+}
+
+.link{
+    color: inherit;
+    text-decoration: none;
 }
