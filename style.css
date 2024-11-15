@@ -5,24 +5,27 @@
 }
 
 :root{
-    --corletras:#ffffff;
-    --fundo: #000000;
-    --retangulo: rgba(0, 0, 0, 0.3);
+    --letters:#ffffff;
+    --background: #000000;
+    --headercolor: linear-gradient(#000, #434343);
+    --footer: linear-gradient(#070A16, #000);
+    --lettersfill: rgba(0, 0, 0, 0.3);
 }
 
 body{
-    background-color: var(--fundo);
+    background: var(--background);
     font-family: "inter" sans-serif;
-    color: var(--corletras);
+    color: var(--letters);
     justify-content: center;
     align-content: center;
 }
 
 header{
-    background-color: var(--fundo);
     height: 100px;
     justify-content: space-around;
     align-content: center;
+    margin-left: -50px;
+    margin-right: -50px;
     display: flex;
 }
 
@@ -51,15 +54,11 @@ header{
 .divmedias{
     width: 202px;
     height: 54x;
-    justify-content: center;
+    justify-content: space-between;
     align-content: center;
     margin-top: 23px;
     margin-bottom: 23px;
     display: flex;
-}
-
-.medias{
-    padding-right: 20px;
 }
 
 .page01{
@@ -67,9 +66,9 @@ header{
     height: 808px;
     background-image: url(background01.png);
     background-repeat: no-repeat;
-    justify-self: center;
     justify-content: flex-end;
     align-content: flex-end;
+    justify-self: center;
 }
 
 .text01{
@@ -78,15 +77,25 @@ header{
     margin-right: 620px;
     margin-left: 75px;
     margin-bottom: 125px;
-    background: var(--retangulo);
+    background: var(--lettersfill);
     display: flex;
 }
 
 .page02{
+    width: 1440px;
     height: 808px;
-    justify-content: center;
+    background-image: url(background02.png);
+    background-repeat: no-repeat;
+    justify-content: space-around;
     align-content: center;
-    
+    justify-self: center;
+}
+
+.text02{
+    font-size: 20px;
+    margin-top: 20px;
+    background: var(--lettersfill);
+    display: flex;
 }
 
 
@@ -97,9 +106,7 @@ header{
 
 
 .footer{
-    background-color: var(--fundo);
-    color: var(--corletras);
-    width: 1440px;
+    background-color: var(--background);
     height: 248px;
     justify-content: center;
     align-items: center;
