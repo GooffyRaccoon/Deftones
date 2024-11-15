@@ -62,7 +62,7 @@ header{
     padding-right: 20px;
 }
 
-.back01{
+.page01{
     width: 1440px;
     height: 808;
     background-image: url(background01.png);
@@ -86,7 +86,6 @@ header{
 
 
 .page02{
-    width: 1440px;
     height: 808px;
     justify-content: center;
     align-content: center;
