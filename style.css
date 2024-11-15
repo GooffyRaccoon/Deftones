@@ -82,85 +82,51 @@ header{
 }
 
 .page02{
-    color: var(--letterscolor);
     width: 1440px;
     height: 808px;
     background-image: url(background02.png);
-    background-repeat: no-repeat;
-    justify-content: space-around;
-    align-content: center;
     justify-self: center;
+    align-: center;
 }
 
 .text02{
+    width: 316px;
+    height: 60px;
     font-size: 30px;
     text-align: center;
     justify-content: center;
     justify-items: center;
-    margin-left: 575px;
-    margin-right: 575px;
+    margin-left: 562px;
+    margin-right: 562px;
     margin-top: 20px;
     margin-bottom: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
     background: var(--lettersfill);
     display: flex;
 }
 
-.albums1line{
-    height: 365px;
-    justify-content: space-between;
+.secalbum{
+    
+}
+
+.divalbums{
+    justify-content: space-around;
+    display: flex;
 }
 
 .album{
-    justify-self: space-around;
-    display: flex;
+    text-align: center;
 }
 
+
 .albumsimg{
-    width: 200px;
-    height: 200px;
-    justify-self: space-around;
-    display: flex;
+    height: 120px;
 }
 
 .albumscaption{
-    width: 275px;
-    height: 90px;
     text-align: center;
-    justify-content: space-around;
-    justify-items: center;
-    background: var(--lettersfill);
-    display: flex;
 }
-
-.albums2line{
-    height: 365px;
-    justify-content: space-between;
-}
-
-.album2{
-    justify-self: space-around;
-    display: flex;
-}
-
-.albumsimg2{
-    width: 200px;
-    height: 200px;
-    justify-self: space-around;
-    display: flex;
-}
-
-.albumscaption2{
-    width: 275px;
-    height: 90px;
-    text-align: center;
-    justify-content: space-around;
-    justify-items: center;
-    background: var(--lettersfill);
-    display: flex;
-}
-
-
-
 
 
 
