@@ -105,17 +105,13 @@ header{
     display: flex;
 }
 
-.album{
-    justify-content: space-around;
-    align-content: center;
-    
+.albums1line{
+    height: 365px;
+    justify-content: space-between;
 }
 
-.albumscaption{
-    text-align: center;
-    justify-content: space-around;
-    justify-items: center;
-    background: var(--lettersfill);
+.album{
+    justify-self: space-around;
     display: flex;
 }
 
@@ -123,9 +119,19 @@ header{
     width: 200px;
     height: 200px;
     justify-self: space-around;
-    align-self: center;
     display: flex;
 }
+
+.albumscaption{
+    width: 275px;
+    height: 90px;
+    text-align: center;
+    justify-content: space-around;
+    justify-items: center;
+    background: var(--lettersfill);
+    display: flex;
+}
+
 
 
 
