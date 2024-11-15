@@ -62,16 +62,16 @@ header{
     padding-right: 20px;
 }
 
+.text{
+     
+}
+
 .page01{
-    height: 808px;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    height: 808;
     content: url(background01.png);
     justify-self: center;
 }
 
-.
 
 .page02{
     
