@@ -68,7 +68,7 @@ header{
 
 .page01{
     height: 808;
-    content: url(background01.png);
+    background-image: url(background01.png);
     justify-self: center;
 }
 
