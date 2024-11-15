@@ -132,6 +132,39 @@ header{
     display: flex;
 }
 
+.albums2line{
+    height: 365px;
+    justify-content: space-between;
+}
+
+.album2{
+    justify-self: space-around;
+    display: flex;
+}
+
+.albumsimg2{
+    width: 200px;
+    height: 200px;
+    justify-self: space-around;
+    display: flex;
+}
+
+.albumscaption2{
+    width: 275px;
+    height: 90px;
+    text-align: center;
+    justify-content: space-around;
+    justify-items: center;
+    background: var(--lettersfill);
+    display: flex;
+}
+
+
+
+
+
+
+
 
 
 
