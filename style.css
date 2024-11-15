@@ -21,6 +21,7 @@ body{
 }
 
 header{
+    background-image: var(--headercolor);
     height: 100px;
     justify-content: space-around;
     align-content: center;
@@ -105,7 +106,6 @@ header{
     display: flex;
 }
 
-
 .divalbums{
     height: 365px;
     color: var(--letters);
@@ -136,18 +136,8 @@ header{
     align-content: center;
 }
 
-
-
-
-
-
-
-
-
-
 .footer{
-    background-color: var(--background);
-
+    background-image: var(--footer);
     height: 248px;
     justify-content: center;
     align-items: center;
