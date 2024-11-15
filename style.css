@@ -63,7 +63,7 @@ header{
 
 .page01{
     width: 1440px;
-    height: 808px;
+    height: 800px;
     background-image: url(background01.png);
     background-repeat: no-repeat;
     justify-content: flex-end;
@@ -83,51 +83,58 @@ header{
 
 .page02{
     width: 1440px;
-    height: 808px;
+    height: 900px;
     background-image: url(background02.png);
     justify-self: center;
-    align-: center;
+    align-content: center;
 }
 
 .text02{
-    width: 316px;
     height: 60px;
-    font-size: 30px;
+    font-size: 22px;
     text-align: center;
     justify-content: center;
     justify-items: center;
-    margin-left: 562px;
-    margin-right: 562px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 25px;
+    margin-top: 25px;
     padding-top: 12px;
     padding-bottom: 12px;
     background: var(--lettersfill);
     display: flex;
 }
 
-.secalbum{
-    
-}
 
 .divalbums{
-    justify-content: space-around;
+    height: 365px;
+    color: var(--letters);
+    font-size: 20px;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 25px;
     display: flex;
 }
 
 .album{
     text-align: center;
+    margin-left: 35px;
+    margin-right: 35px;
+    
 }
 
-
 .albumsimg{
-    height: 120px;
+    height: 275px;
+    color: var(--letters);
 }
 
 .albumscaption{
+    color: var(--letters);
+    background-color: var(--lettersfill);
     text-align: center;
+    justify-content: center;
+    align-content: center;
 }
-
 
 
 
