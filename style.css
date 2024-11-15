@@ -66,14 +66,21 @@ header{
     width: 1440px;
     height: 808;
     background-image: url(background01.png);
+    background-repeat: no-repeat;
     justify-self: center;
+    justify-content: center;
+    align-content: center;
+    
 }
 
 .text01{
+    width: 744px;
     height: 232px;
     justify-content: center;
     align-content: center;
-    grid-template-columns: 66%, 33%;
+    text-align: center;
+    grid-template-columns: 50%, 50%;
+    grid-template-rows: 33%, 33%, 33%;
 }
 
 
@@ -91,13 +98,15 @@ header{
 .footer{
     background-color: var(--fundo);
     color: var(--corletras);
-    width: 1440;
-    height: 248;
+    width: 1440px;
+    height: 248px;
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+.footerlogo{
     margin-top: 12px;
-    margin-bottom: 55px;
 }
 
 .moreinfo{
