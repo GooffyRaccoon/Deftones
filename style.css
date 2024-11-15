@@ -79,7 +79,22 @@ header{
 .footer{
     background-color: var(--fundo);
     color: var(--corletras);
+    width: 1440;
+    height: 248;
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+.footerlogo{
+    margin-top: 13px;
+}
+
+.moreinfo{
+    margin-top: 22px;
+    margin-bottom: 3px;   
+}
+
+.privacity{
+    margin-bottom: 55px;
 }
