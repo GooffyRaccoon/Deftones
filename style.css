@@ -21,32 +21,39 @@ header{
     width: 1440px;
     height: 100px;
     justify-content: space-between;
+    display: flex;
 }
 
 .logoimg{
     width: 78px;
     height: 78px;
-    margin-top: 11px;
-    margin-bottom: 11px;
-    margin-left: 24px;
     justify-content: flex-start;
     align-items: center;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    margin-left: 100px;
 }
 
 .headertittle{
     width: 207px;
     height: 84px;
-    text-size-adjust: 48px;
     justify-content: center;
     align-items: center;
+    margin-top: 30px;
 }
 
 .divmedias{
-    justify-content: flex-end;
-    padding-right: 12px;
-    display: flex;
     width: 54px;
     height: 54px;
+    justify-content: flex-end;
+    margin-left: 12px;
+    margin-top: 23px;
+    margin-right: 100px;
+    display: flex;
+}
+
+.medias{
+    padding-right: 25px;
 }
 
 .page1{
