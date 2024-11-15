@@ -62,14 +62,18 @@ header{
     padding-right: 20px;
 }
 
-.text{
-     
-}
-
 .page01{
+    width: 1440px;
     height: 808;
     background-image: url(background01.png);
     justify-self: center;
+}
+
+.text01{
+    height: 232px;
+    justify-content: center;
+    align-content: center;
+    grid-template-columns: 66%, 33%;
 }
 
 
