@@ -82,6 +82,7 @@ header{
 }
 
 .page02{
+    color: var(--letterscolor);
     width: 1440px;
     height: 808px;
     background-image: url(background02.png);
@@ -92,12 +93,39 @@ header{
 }
 
 .text02{
-    font-size: 20px;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    margin-left: 575px;
+    margin-right: 575px;
     margin-top: 20px;
+    margin-bottom: 20px;
     background: var(--lettersfill);
     display: flex;
 }
 
+.album{
+    justify-content: space-around;
+    align-content: center;
+    
+}
+
+.albumscaption{
+    text-align: center;
+    justify-content: space-around;
+    justify-items: center;
+    background: var(--lettersfill);
+    display: flex;
+}
+
+.albumsimg{
+    width: 200px;
+    height: 200px;
+    justify-self: space-around;
+    align-self: center;
+    display: flex;
+}
 
 
 
